@@ -7,11 +7,7 @@
         <editHeading>true</editHeading>
         <label>Picture</label>
         <layoutColumns>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Picture_IMG__c</field>
-            </layoutItems>
-            <layoutItems>
+                        <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Picture__c</field>
             </layoutItems>
