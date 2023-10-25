@@ -4,7 +4,7 @@
     <description>Flow for test git</description>
     <environments>Default</environments>
     <interviewLabel>NotWorkingFlow {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>NotWorkingFlow</label>
+    <label>NotWorkingFlowOnlyToTestGit</label>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
